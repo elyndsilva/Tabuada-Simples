@@ -7,7 +7,7 @@
 
  Tabuada vazia sem valor:
 
-![alt text](tabuada-zero-1.png)
+![alt text](tabuada-zero-2.png)
 
 Tabuada com o valor inserido de "87" e mostrando o resultando do 0 ao 10:
 
