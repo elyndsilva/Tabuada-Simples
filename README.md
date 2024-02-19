@@ -5,10 +5,10 @@
 
  Exemplos a seguir: 
 
- Tabuada vazia sem valor:
+ Tabuada vazia sem valor: 📲
 
 ![alt text](tabuada-zero-2.png)
 
-Tabuada com o valor inserido de "87" e mostrando o resultando do 0 ao 10:
+Tabuada com o valor inserido de "87" e mostrando o resultando do 0 ao 10: 📟
 
 ![alt text](tabuada-img-acao-1.png)
