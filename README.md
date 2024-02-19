@@ -12,3 +12,5 @@
 Tabuada com o valor inserido de "87" e mostrando o resultando do 0 ao 10: 📟
 
 ![alt text](tabuada-img-acao-1.png)
+
+O projeto é simples, mas estou em constante evolução e pretendo sempre melhorar e aperfeiçoar!  💻
