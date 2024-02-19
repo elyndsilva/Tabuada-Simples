@@ -9,6 +9,6 @@
 
 ![alt text](tabuada-img.png)
 
-Tabuada com o valor inserido de "82" e mostrando o resultando do 0 ao 10:
+Tabuada com o valor inserido de "87" e mostrando o resultando do 0 ao 10:
 
-![alt text](tabuada-img-acao.png)
+![alt text](tabuada-zero.png)
